@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /verzend.php
+
+Sitemap: https://jckaagenbraassem.nl/sitemap.xml
